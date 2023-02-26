@@ -1,6 +1,6 @@
 # SpringBoilerPlate
 
-=> To get token you can post request to : http://localhost:8080/boilerplate/api/user/authenticate
+To get token you can post request to : http://localhost:8080/boilerplate/api/user/authenticate
 
 ![img.png](img.png)
 
